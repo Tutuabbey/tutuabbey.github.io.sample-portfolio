@@ -1,5 +1,9 @@
-title: Tumini Abbey
-#logo: 
-#description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+# Data Analyst
+
+### Education
+MSc Project Management
+
+## Work Experience
+Senior Data Analyst at SBD
+- big impact Project 1
+- project 2
