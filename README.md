@@ -16,4 +16,4 @@ MSc Project Management
 [Linkedin](https://linkedin.com/in/tumini-inoma-abbey)
 
 
-![Headshot image](asset/img/headshot.jpg)
+![Headshot image](/asset/img/headshot.JPG)
