@@ -12,5 +12,8 @@ MSc Project Management
 - #### used to determine size of text
 - read more on writing in md files (markdown)
 - to add a link
-[Linkedin](https://linkedin.com/tumini-inoma-abbey)
+- 
+[Linkedin](https://linkedin.com/in/tumini-inoma-abbey)
+
+
 ![Headshot image](asset/img/headshot.jpg)
